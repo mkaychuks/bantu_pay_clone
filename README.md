@@ -21,4 +21,5 @@ its technologies/powerfulness.
 - I didn't use any state management packages, because as at the time of building this, I haven't learn't any.
 - Some functionalities you may expect to see (depending on your level in tech) might not work, because i worked to the best of my skill set. :grin:
 - Hopefully in the future, I might come back to this :smile:
+- Some functionalities might misbehave as well due to the API level you are running on. :smile: I will have to learn to handle/manage different API levels
 
