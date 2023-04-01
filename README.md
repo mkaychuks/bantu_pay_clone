@@ -17,9 +17,8 @@ This project is a form of learning/practice for me to get acquianted with Flutte
 its technologies/powerfulness.
 
 #### Worthy of note is that
-- I built the UI out of my head, without any style guide, so there may be errors in pixels here and there :winks:
+- I built the UI out of my head, without any style guide, so there may be errors in pixels here and there :grin:
 - I didn't use any state management packages, because as at the time of building this, I haven't learn't any.
 - Some functionalities you may expect to see (depending on your level in tech) might not work, because i worked to the best of my skill set. :grin:
-- Hopefully in the future, I might come back to this :laugh:
-- 
+- Hopefully in the future, I might come back to this :smile:
 
