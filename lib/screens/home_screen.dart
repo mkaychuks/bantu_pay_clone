@@ -1,6 +1,5 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:myapp/screens/history_screen.dart';
 import 'package:myapp/screens/home_page_screen.dart';
 import 'package:myapp/screens/settings_page.dart';
